@@ -1,0 +1,7 @@
+parking-app/node_modules
+.idea
+*.iml
+chaincode/digitorus
+chaincode/golang
+chaincode/pierrre
+chaincode/shopspring
